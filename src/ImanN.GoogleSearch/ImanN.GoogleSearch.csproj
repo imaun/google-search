@@ -16,6 +16,7 @@
         <PackageTags>google;google search</PackageTags>
         <Company>ImanN</Company>
         <Product>GoogleSearchClient</Product>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
     </PropertyGroup>
 
     <ItemGroup>
