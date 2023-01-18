@@ -1,6 +1,6 @@
 using System;
 
-namespace ImanN.GoogleSearch.Models
+namespace ImanN.GoogleSearch
 {
     public class GoogleSearchRequest
     {
