@@ -4,6 +4,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1F98302C-096
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImanN.GoogleSearch", "src\ImanN.GoogleSearch\ImanN.GoogleSearch.csproj", "{71925721-B5D8-4CC9-800A-07B94AF03092}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{4632A3BD-06D0-481D-B7EC-B6B52BB2A01E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleSearch.Tests", "test\GoogleSearch.Tests\GoogleSearch.Tests.csproj", "{B7E45FC1-E87E-4C06-B6A2-F6213162E4C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -11,11 +15,16 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{71925721-B5D8-4CC9-800A-07B94AF03092} = {1F98302C-0968-4C82-AF8F-906EC35E64AB}
+		{B7E45FC1-E87E-4C06-B6A2-F6213162E4C5} = {4632A3BD-06D0-481D-B7EC-B6B52BB2A01E}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{71925721-B5D8-4CC9-800A-07B94AF03092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{71925721-B5D8-4CC9-800A-07B94AF03092}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71925721-B5D8-4CC9-800A-07B94AF03092}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71925721-B5D8-4CC9-800A-07B94AF03092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7E45FC1-E87E-4C06-B6A2-F6213162E4C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E45FC1-E87E-4C06-B6A2-F6213162E4C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E45FC1-E87E-4C06-B6A2-F6213162E4C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E45FC1-E87E-4C06-B6A2-F6213162E4C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
