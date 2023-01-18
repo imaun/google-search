@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1F98302C-0968-4C82-AF8F-906EC35E64AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImanN.GoogleSearch", "src\ImanN.GoogleSearch\ImanN.GoogleSearch.csproj", "{71925721-B5D8-4CC9-800A-07B94AF03092}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{71925721-B5D8-4CC9-800A-07B94AF03092} = {1F98302C-0968-4C82-AF8F-906EC35E64AB}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71925721-B5D8-4CC9-800A-07B94AF03092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71925721-B5D8-4CC9-800A-07B94AF03092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71925721-B5D8-4CC9-800A-07B94AF03092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71925721-B5D8-4CC9-800A-07B94AF03092}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

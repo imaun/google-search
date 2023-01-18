@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.1</TargetFramework>
+        <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageId>GoogleSearchClient</PackageId>
+        <Title>GoogleSearchClient</Title>
+        <Authors>Iman Nemati</Authors>
+        <Description>GoogleSearchClient uses HtmlAgilityPack to crawl Google search results for a specific phrase  </Description>
+        <Copyright>(c) 2022 Iman Nemati</Copyright>
+        <PackageProjectUrl>https://github.com/imaun/google-search</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/imaun/google-search/blob/master/LICENSE</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/imaun/google-search</RepositoryUrl>
+        <RepositoryType>github</RepositoryType>
+        <PackageTags>google;google search</PackageTags>
+        <Company>ImanN</Company>
+        <Product>GoogleSearchClient</Product>
+    </PropertyGroup>
+
+</Project>
